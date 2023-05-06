@@ -20,7 +20,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer in my day job and program mostly in ASP.NET core and Angular for building web applications. 
 - :iphone: I’m also building mobile applications in Flutter using the Dart language.
-- :zap: In my free time, I solve problems on <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Badge"/>.
+- :zap: In my free time, I solve problems on     <a href="https://stackoverflow.com/users/19517021/tobias-worm">
+      <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Badge"/>
+    </a>.
 - :seedling: I’m also learning the Unity Game Engine to further my GameDev dream :cloud:.
 
 
